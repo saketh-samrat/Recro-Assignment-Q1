@@ -1,0 +1,15 @@
+.card {
+  width: 50%;
+  height: fit-content;
+  box-shadow: 2px 2px 4px 6px #d5d5d5;
+  padding: 1rem;
+  margin: 1rem;
+  border-radius: 10px;
+  h2 {
+    color: orange;
+  }
+
+  p {
+    color: green;
+  }
+}
